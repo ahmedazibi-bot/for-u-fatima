@@ -1,0 +1,23 @@
+# This file tracks properties of this Flutter project.
+# Used by Flutter tooling to track the version and architecture of projects
+# that use this generated project template.
+
+version:
+  revision: 8af6b2f32c3a20ff0db4a0458c7e2e3c7698a0d5
+  channel: stable
+
+project_type: app
+
+# User provided section
+
+# List of Local paths (relative to this file) that should be
+# symlinked into the .dart_tool directory
+#
+# More information: https://dart.dev/go/workspace
+#
+# This file is deprecated. Use .dart_tool/package_config.json instead.
+generated_plugins:
+  - platform: android
+    name: url_launcher
+  - platform: ios
+    name: url_launcher
